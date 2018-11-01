@@ -1,0 +1,7 @@
+[submodule "opt/j-EDI"]
+	path = opt/j-EDI
+	url = https://github.com/Juniper/j-EDI.git
+	branch = bgriffin
+[submodule "opt/jedi-seed"]
+	path = opt/jedi-seed
+	url = https://github.com/Juniper/jedi-seed.git
